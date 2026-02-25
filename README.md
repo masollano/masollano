@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer | Product Engineer | Laravel Specialist</h3>
 
 <p align="center">
-I build scalable, secure, and maintainable web applications — with deep expertise in the PHP ecosystem and high-performance database systems.
+I build scalable, secure, and high-performance web applications — with deep expertise in Laravel and database-driven systems.
 </p>
 
 ---
@@ -12,35 +12,69 @@ I build scalable, secure, and maintainable web applications — with deep expert
 - 💻 Full-Stack Software Engineer (PHP-focused)
 - 🎓 Master of Information Technology (MIT) Student
 - 🏗️ Backend architecture & database performance specialist
-- 🚀 Product-oriented engineer — I ship features that deliver user value
+- 🚀 Product-oriented engineer — I design systems that solve real business problems
 - 🌐 Open to international remote opportunities
 
 ---
 
-## 🛠️ Core Technical Stack
+# 🚀 Featured Work
 
-### Backend (Primary Expertise)
-- **PHP**
-- **Laravel**
+## 🥗 Functional Foods PH  
+🌐 https://functionalfoods.ph  
+
+Production-grade web platform for functional and health-related products.
+
+**Role:** Full-Stack Engineer  
+**Tech Stack:** PHP, Laravel, Angular, TailwindCSS, MySQL  
+
+### Contributions
+- Designed backend architecture and database schema
+- Implemented secure authentication & role-based access control
+- Built RESTful APIs for frontend integration
+- Optimized SQL queries and indexing strategies
+- Delivered responsive and accessible UI components
+- Focused on long-term maintainability and performance
+
+---
+
+## 📦 Laravel Stored Procedures Package  
+🔗 https://github.com/magslabs/laravel-storedproc  
+
+A Laravel package designed to simplify and standardize stored procedure execution within Laravel applications.
+
+### Purpose
+Bridges Laravel’s expressive syntax with advanced SQL stored procedure workflows.
+
+### Highlights
+- Clean abstraction layer for stored procedures
+- Structured parameter handling
+- Designed for MSSQL and MySQL compatibility
+- Promotes maintainable database-heavy applications
+
+---
+
+# 🛠️ Core Technical Stack
+
+### Backend
+- PHP
+- Laravel
 - RESTful API Design
 - Authentication & Authorization
 - Role & Permission Systems
-- Secure and scalable application architecture
 
 ### Frontend
-- **Livewire**
-- **Angular**
+- Angular
+- Livewire
 - Alpine.js
 - TailwindCSS
-- Component-based UI architecture
 
-### Database Engineering
-- MSSQL  
-- MySQL  
-- PostgreSQL  
-- MariaDB  
+### Database Engineering (Specialization)
+- MSSQL
+- MySQL
+- PostgreSQL
+- MariaDB
 
-**Specialization:**
+**Focus Areas:**
 - Advanced SQL
 - Stored Procedures
 - Query Optimization
@@ -49,37 +83,30 @@ I build scalable, secure, and maintainable web applications — with deep expert
 
 ---
 
-## 🧠 Engineering Principles
+# 🧠 Engineering Philosophy
 
-- SOLID design principles
+- SOLID principles
 - Clean Architecture
 - Secure-by-default systems
 - Performance-aware development
-- Maintainable and testable codebases
-- Long-term product sustainability
+- Maintainable, testable codebases
+- Sustainable product growth
 
 ---
 
-## 🔬 Additional Experience
+# 📈 What I Bring to Remote Teams
 
-C# · Python · Adobe ColdFusion  
-.NET · Django · ReactJS · React Native · VueJS  
-
----
-
-## 📈 What I Bring to Remote Teams
-
-- Strong written technical communication  
-- Ownership mindset (feature → implementation → optimization)  
-- Independent execution with accountability  
-- Backend depth with frontend execution capability  
-- Focus on scalable, production-grade systems  
+- Strong async communication
+- High ownership and accountability
+- Backend depth with frontend execution capability
+- Product-focused engineering mindset
+- Production-grade system design experience
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-LinkedIn:  
+LinkedIn  
 https://www.linkedin.com/in/masollano/
 
 ---
