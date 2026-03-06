@@ -1,5 +1,5 @@
 <h1 align="center">Mark Angelo Sollano</h1>
-<h3 align="center">Full-Stack Software Engineer | Product Engineer | Laravel Specialist</h3>
+<h3 align="center">Full-Stack Software Engineer | Product Engineer</h3>
 
 <p align="center">
 I build scalable, secure, and high-performance web platforms — specializing in Laravel and database-driven systems.
